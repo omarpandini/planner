@@ -4,7 +4,7 @@ var lines = 15;
 
 var dt = new Date();
 
-retornaDtBr(dt.toISOString().substring(0, 10))
+retornaDtBr(dt.toISOString().substring(0, 10));
 
 
 
